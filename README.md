@@ -1,1 +1,1 @@
-Código simples para o curso.
+Código da calculadora para o curso.
